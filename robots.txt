@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aged-tooth-1296.on.fleek.co/sitemap.xml
